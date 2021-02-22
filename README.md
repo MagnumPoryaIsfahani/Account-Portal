@@ -1,6 +1,4 @@
 # Account-Portal
-Learning full-stack web dev
-
 Attempting to learn to be a fullstack web dev by building a simple Account-Portal.
 
 ## How to run server
